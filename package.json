@@ -1,0 +1,21 @@
+{
+    "name": "ashraf",
+    "displayName": "labHack",
+    "description": "computer science laboratory program snippets",
+    "version": "1.0.0",
+    "engines": { 
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "java",
+                "path": "./snippets/snippets.code-snippets"
+            }
+           
+        ]
+    }
+}
