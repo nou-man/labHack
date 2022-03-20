@@ -1,21 +1,27 @@
 {
-    "name": "ashraf",
-    "displayName": "labHack",
-    "description": "computer science laboratory program snippets",
-    "version": "1.0.0",
-    "engines": { 
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Snippets"
-    ],
-    "contributes": {
-        "snippets": [
-            {
-                "language": "java",
-                "path": "./snippets/snippets.code-snippets"
-            }
-           
-        ]
-    }
+	"name": "ashraf",
+	"displayName": "labHack",
+	"description": "computer science laboratory program snippets",
+	"publisher": "labHack",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.63.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "java",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "065eba11-0427-45e5-8e86-156203b5de48",
+		"publisherDisplayName": "labHack",
+		"publisherId": "277664bc-aaa0-40eb-b495-9e379bdd4260",
+		"isPreReleaseVersion": false
+	}
 }
