@@ -3,7 +3,12 @@
 	"displayName": "labHack",
 	"description": "computer science laboratory program snippets",
 	"publisher": "labHack",
-	"version": "1.0.2",
+	"version": "1.0.3",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Muzain187/labHack"
+	},
+	"icon": "labHack.jpeg",
 	"engines": {
 		"vscode": "^1.63.0"
 	},
